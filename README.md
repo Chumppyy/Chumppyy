@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Chumppyy
+- 👀 I’m interested in coding and videogames
+- 🌱 I’m currently learning HTML5, CSS, JavaScript
